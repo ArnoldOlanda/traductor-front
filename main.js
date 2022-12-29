@@ -1,4 +1,5 @@
-const URL = 'http://localhost:7000'
+// const URL = 'http://localhost:7000'
+const URL = 'https://traductor-back.onrender.com';
 
 const palabras = document.getElementById('palabras');
 const resultado = document.getElementById('resultado');
